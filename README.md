@@ -28,15 +28,3 @@ The implementation is done inside a single Jupyter notebook, including preproces
    ```bash
    git clone https://github.com/Hibaboutalat/Word2Vec-Implementation.git
    cd Word2Vec-Implementation
----
-## 📊 Results
-
-### Word Embedding Visualization
-Word embeddings projected into 2D space (PCA/t-SNE):
-
-![Embeddings](./images/embeddings.png)
-
-### Training Loss
-Model convergence during training:
-
-![Loss Curve](./images/loss_curve.png)
